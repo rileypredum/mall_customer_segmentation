@@ -14,4 +14,4 @@
 
 My other projects can be found at my [GitHub](github.com/rileypredum).
 
-I also write about them on [Medium](medium.com/@rileypredum).
+I also write about them on [Medium][medium.com/@rileypredum].
